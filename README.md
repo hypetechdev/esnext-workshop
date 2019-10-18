@@ -1,1 +1,1 @@
-# react-workshop-es5-refactoring
+# react-workshop-es5-to-es6
